@@ -185,3 +185,7 @@
     查看消息后, 更新未读数量
 
 ## 3. 自定义redux和react-redux
+
+npm install
+
+npm start
